@@ -1,0 +1,25 @@
+.navegacion{
+    padding: 15px;
+    /* border-radius: 20px; */
+    /* background-color: black; */
+    /* background-color: ; */
+    margin-top: 10px;
+    width: 100%;
+    border-bottom: 4px solid  #0075A2;
+    /* border: 1px  black; */
+}
+
+.contenedor-navegacion{
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, sans-serif; 
+}
+
+
+.btnLogout:hover{
+    background-color: #083D77;
+    /* padding: 10px; */
+    color:white
+}
